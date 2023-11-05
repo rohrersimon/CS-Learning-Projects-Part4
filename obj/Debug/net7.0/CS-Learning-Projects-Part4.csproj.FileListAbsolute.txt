@@ -1,0 +1,14 @@
+C:\Users\Simon\OneDrive\OneNote Notebooks\GitHub\CS-Learning-Projects-Part4\bin\Debug\net7.0\CS-Learning-Projects-Part4.exe
+C:\Users\Simon\OneDrive\OneNote Notebooks\GitHub\CS-Learning-Projects-Part4\bin\Debug\net7.0\CS-Learning-Projects-Part4.deps.json
+C:\Users\Simon\OneDrive\OneNote Notebooks\GitHub\CS-Learning-Projects-Part4\bin\Debug\net7.0\CS-Learning-Projects-Part4.runtimeconfig.json
+C:\Users\Simon\OneDrive\OneNote Notebooks\GitHub\CS-Learning-Projects-Part4\bin\Debug\net7.0\CS-Learning-Projects-Part4.dll
+C:\Users\Simon\OneDrive\OneNote Notebooks\GitHub\CS-Learning-Projects-Part4\bin\Debug\net7.0\CS-Learning-Projects-Part4.pdb
+C:\Users\Simon\OneDrive\OneNote Notebooks\GitHub\CS-Learning-Projects-Part4\obj\Debug\net7.0\CS-Learning-Projects-Part4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Simon\OneDrive\OneNote Notebooks\GitHub\CS-Learning-Projects-Part4\obj\Debug\net7.0\CS-Learning-Projects-Part4.AssemblyInfoInputs.cache
+C:\Users\Simon\OneDrive\OneNote Notebooks\GitHub\CS-Learning-Projects-Part4\obj\Debug\net7.0\CS-Learning-Projects-Part4.AssemblyInfo.cs
+C:\Users\Simon\OneDrive\OneNote Notebooks\GitHub\CS-Learning-Projects-Part4\obj\Debug\net7.0\CS-Learning-Projects-Part4.csproj.CoreCompileInputs.cache
+C:\Users\Simon\OneDrive\OneNote Notebooks\GitHub\CS-Learning-Projects-Part4\obj\Debug\net7.0\CS-Learning-Projects-Part4.dll
+C:\Users\Simon\OneDrive\OneNote Notebooks\GitHub\CS-Learning-Projects-Part4\obj\Debug\net7.0\refint\CS-Learning-Projects-Part4.dll
+C:\Users\Simon\OneDrive\OneNote Notebooks\GitHub\CS-Learning-Projects-Part4\obj\Debug\net7.0\CS-Learning-Projects-Part4.pdb
+C:\Users\Simon\OneDrive\OneNote Notebooks\GitHub\CS-Learning-Projects-Part4\obj\Debug\net7.0\CS-Learning-Projects-Part4.genruntimeconfig.cache
+C:\Users\Simon\OneDrive\OneNote Notebooks\GitHub\CS-Learning-Projects-Part4\obj\Debug\net7.0\ref\CS-Learning-Projects-Part4.dll
