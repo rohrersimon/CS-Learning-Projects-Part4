@@ -83,6 +83,89 @@
           "build/runtime.win10-x86.Microsoft.Net.Native.SharedLibrary.targets": {}
         }
       }
+    },
+    "net7.0/win10-x64": {
+      "Microsoft.Net.Native.Compiler/2.2.3": {
+        "type": "package",
+        "dependencies": {
+          "runtime.win10-arm.Microsoft.Net.Native.Compiler": "2.2.3",
+          "runtime.win10-arm64.Microsoft.Net.Native.Compiler": "2.2.3",
+          "runtime.win10-x64.Microsoft.Net.Native.Compiler": "2.2.3",
+          "runtime.win10-x86.Microsoft.Net.Native.Compiler": "2.2.3"
+        },
+        "build": {
+          "build/Microsoft.Net.Native.Compiler.props": {},
+          "build/Microsoft.Net.Native.Compiler.targets": {}
+        }
+      },
+      "runtime.win10-arm.Microsoft.Net.Native.Compiler/2.2.3": {
+        "type": "package",
+        "dependencies": {
+          "runtime.win10-arm.Microsoft.Net.Native.SharedLibrary": "2.2.3"
+        },
+        "build": {
+          "build/runtime.win10-arm.Microsoft.Net.Native.Compiler.props": {},
+          "build/runtime.win10-arm.Microsoft.Net.Native.Compiler.targets": {}
+        }
+      },
+      "runtime.win10-arm.Microsoft.Net.Native.SharedLibrary/2.2.3": {
+        "type": "package",
+        "build": {
+          "build/runtime.win10-arm.Microsoft.Net.Native.SharedLibrary.props": {},
+          "build/runtime.win10-arm.Microsoft.Net.Native.SharedLibrary.targets": {}
+        }
+      },
+      "runtime.win10-arm64.Microsoft.Net.Native.Compiler/2.2.3": {
+        "type": "package",
+        "dependencies": {
+          "runtime.win10-arm64.Microsoft.Net.Native.SharedLibrary": "2.2.3"
+        },
+        "build": {
+          "build/runtime.win10-arm64.Microsoft.Net.Native.Compiler.props": {},
+          "build/runtime.win10-arm64.Microsoft.Net.Native.Compiler.targets": {}
+        }
+      },
+      "runtime.win10-arm64.Microsoft.Net.Native.SharedLibrary/2.2.3": {
+        "type": "package",
+        "build": {
+          "build/runtime.win10-arm64.Microsoft.Net.Native.SharedLibrary.props": {},
+          "build/runtime.win10-arm64.Microsoft.Net.Native.SharedLibrary.targets": {}
+        }
+      },
+      "runtime.win10-x64.Microsoft.Net.Native.Compiler/2.2.3": {
+        "type": "package",
+        "dependencies": {
+          "runtime.win10-x64.Microsoft.Net.Native.SharedLibrary": "2.2.3"
+        },
+        "build": {
+          "build/runtime.win10-x64.Microsoft.Net.Native.Compiler.props": {},
+          "build/runtime.win10-x64.Microsoft.Net.Native.Compiler.targets": {}
+        }
+      },
+      "runtime.win10-x64.Microsoft.Net.Native.SharedLibrary/2.2.3": {
+        "type": "package",
+        "build": {
+          "build/runtime.win10-x64.Microsoft.Net.Native.SharedLibrary.props": {},
+          "build/runtime.win10-x64.Microsoft.Net.Native.SharedLibrary.targets": {}
+        }
+      },
+      "runtime.win10-x86.Microsoft.Net.Native.Compiler/2.2.3": {
+        "type": "package",
+        "dependencies": {
+          "runtime.win10-x86.Microsoft.Net.Native.SharedLibrary": "2.2.3"
+        },
+        "build": {
+          "build/runtime.win10-x86.Microsoft.Net.Native.Compiler.props": {},
+          "build/runtime.win10-x86.Microsoft.Net.Native.Compiler.targets": {}
+        }
+      },
+      "runtime.win10-x86.Microsoft.Net.Native.SharedLibrary/2.2.3": {
+        "type": "package",
+        "build": {
+          "build/runtime.win10-x86.Microsoft.Net.Native.SharedLibrary.props": {},
+          "build/runtime.win10-x86.Microsoft.Net.Native.SharedLibrary.targets": {}
+        }
+      }
     }
   },
   "libraries": {
@@ -2780,12 +2863,31 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+            "version": "[7.0.13, 7.0.13]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Runtime.win-x64",
+            "version": "[7.0.13, 7.0.13]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+            "version": "[7.0.13, 7.0.13]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win10-x64": {
+        "#import": []
       }
     }
   }
