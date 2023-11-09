@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "23yEj8K1hsecVVxvU4JO9ZIh7YddSBifAFaA+M656t6OFnN4aVmn1nMzZlic29h6jLepKbT/mUj4++Vz8DPxmg==",
+  "dgSpecHash": "YBqWey44uc1zKJpcPfZoNeWlLSajuKSVfsw+9Z/ZqqgZX9uF+uOAvpswSgbDgimphJBXt8yCN3/Mol6MdEfvLA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Simon\\OneDrive\\OneNote Notebooks\\GitHub\\CS-Learning-Projects-Part4\\CS-Learning-Projects-Part4.csproj",
   "expectedPackageFiles": [
@@ -12,10 +12,7 @@
     "C:\\Users\\Simon\\.nuget\\packages\\runtime.win10-x64.microsoft.net.native.compiler\\2.2.3\\runtime.win10-x64.microsoft.net.native.compiler.2.2.3.nupkg.sha512",
     "C:\\Users\\Simon\\.nuget\\packages\\runtime.win10-x64.microsoft.net.native.sharedlibrary\\2.2.3\\runtime.win10-x64.microsoft.net.native.sharedlibrary.2.2.3.nupkg.sha512",
     "C:\\Users\\Simon\\.nuget\\packages\\runtime.win10-x86.microsoft.net.native.compiler\\2.2.3\\runtime.win10-x86.microsoft.net.native.compiler.2.2.3.nupkg.sha512",
-    "C:\\Users\\Simon\\.nuget\\packages\\runtime.win10-x86.microsoft.net.native.sharedlibrary\\2.2.3\\runtime.win10-x86.microsoft.net.native.sharedlibrary.2.2.3.nupkg.sha512",
-    "C:\\Users\\Simon\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.13\\microsoft.netcore.app.runtime.win-x64.7.0.13.nupkg.sha512",
-    "C:\\Users\\Simon\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.13\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.13.nupkg.sha512",
-    "C:\\Users\\Simon\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.13\\microsoft.aspnetcore.app.runtime.win-x64.7.0.13.nupkg.sha512"
+    "C:\\Users\\Simon\\.nuget\\packages\\runtime.win10-x86.microsoft.net.native.sharedlibrary\\2.2.3\\runtime.win10-x86.microsoft.net.native.sharedlibrary.2.2.3.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "rhbnkYdxtqKIgal945Tp3MPmVTv4Tef0ZZd8GpeREMPZR9D1is6HcGtOdTcPWqAJ7L0Baa8EmtFUbWo4rKDNOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Simon\\OneDrive\\OneNote Notebooks\\GitHub\\CS-Learning-Projects-Part4\\CS-Learning-Projects-Part4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Simon\\.nuget\\packages\\microsoft.net.native.compiler\\2.2.3\\microsoft.net.native.compiler.2.2.3.nupkg.sha512",
+    "C:\\Users\\Simon\\.nuget\\packages\\runtime.win10-arm.microsoft.net.native.compiler\\2.2.3\\runtime.win10-arm.microsoft.net.native.compiler.2.2.3.nupkg.sha512",
+    "C:\\Users\\Simon\\.nuget\\packages\\runtime.win10-arm.microsoft.net.native.sharedlibrary\\2.2.3\\runtime.win10-arm.microsoft.net.native.sharedlibrary.2.2.3.nupkg.sha512",
+    "C:\\Users\\Simon\\.nuget\\packages\\runtime.win10-arm64.microsoft.net.native.compiler\\2.2.3\\runtime.win10-arm64.microsoft.net.native.compiler.2.2.3.nupkg.sha512",
+    "C:\\Users\\Simon\\.nuget\\packages\\runtime.win10-arm64.microsoft.net.native.sharedlibrary\\2.2.3\\runtime.win10-arm64.microsoft.net.native.sharedlibrary.2.2.3.nupkg.sha512",
+    "C:\\Users\\Simon\\.nuget\\packages\\runtime.win10-x64.microsoft.net.native.compiler\\2.2.3\\runtime.win10-x64.microsoft.net.native.compiler.2.2.3.nupkg.sha512",
+    "C:\\Users\\Simon\\.nuget\\packages\\runtime.win10-x64.microsoft.net.native.sharedlibrary\\2.2.3\\runtime.win10-x64.microsoft.net.native.sharedlibrary.2.2.3.nupkg.sha512",
+    "C:\\Users\\Simon\\.nuget\\packages\\runtime.win10-x86.microsoft.net.native.compiler\\2.2.3\\runtime.win10-x86.microsoft.net.native.compiler.2.2.3.nupkg.sha512",
+    "C:\\Users\\Simon\\.nuget\\packages\\runtime.win10-x86.microsoft.net.native.sharedlibrary\\2.2.3\\runtime.win10-x86.microsoft.net.native.sharedlibrary.2.2.3.nupkg.sha512",
+    "C:\\Users\\Simon\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.13\\microsoft.netcore.app.runtime.win-x64.7.0.13.nupkg.sha512",
+    "C:\\Users\\Simon\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.13\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.13.nupkg.sha512",
+    "C:\\Users\\Simon\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.13\\microsoft.aspnetcore.app.runtime.win-x64.7.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

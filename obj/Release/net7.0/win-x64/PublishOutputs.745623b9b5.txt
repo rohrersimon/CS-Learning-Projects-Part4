@@ -1,0 +1,2 @@
+C:\Users\Simon\OneDrive\OneNote Notebooks\GitHub\CS-Learning-Projects-Part4\bin\Release\net7.0\publish\win-x64\CS-Learning-Projects-Part4.pdb
+C:\Users\Simon\OneDrive\OneNote Notebooks\GitHub\CS-Learning-Projects-Part4\bin\Release\net7.0\publish\win-x64\CS-Learning-Projects-Part4.exe
