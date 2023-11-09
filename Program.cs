@@ -17,6 +17,8 @@ catch (DivideByZeroException ex)
     Console.WriteLine();
 }
 
+Console.ReadLine();
+
 static void Workflow1(string[][] userEnteredValues)
 {
     foreach (string[] userEntries in userEnteredValues)
