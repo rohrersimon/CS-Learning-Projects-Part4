@@ -1,9 +1,4 @@
-﻿
-
-//####################################################
-
-/*
-string[][] userEnteredValues = new string[][]
+﻿string[][] userEnteredValues = new string[][]
 {
             new string[] { "1", "2", "3"},
             new string[] { "1", "two", "3"},
@@ -69,7 +64,6 @@ static void Process1(String[] userEntries)
         }
     }
 }
-*/
 
 //####################################################
 

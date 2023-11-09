@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "GjZc5jcwGTd/fF1mdGgh9lKEF2JfyOK+DEwy8a2gy5ifPUAI0n0x/wsIsmGtZy/UzpbTWHTmX6megWHD86UF9Q==",
+  "dgSpecHash": "YBqWey44uc1zKJpcPfZoNeWlLSajuKSVfsw+9Z/ZqqgZX9uF+uOAvpswSgbDgimphJBXt8yCN3/Mol6MdEfvLA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Simon Rohrer\\OneDrive - SL Network Solutions\\Documents\\GitHub\\CS-Learning-Projects-Part4\\CS-Learning-Projects-Part4.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Simon\\OneDrive\\OneNote Notebooks\\GitHub\\CS-Learning-Projects-Part4\\CS-Learning-Projects-Part4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Simon\\.nuget\\packages\\microsoft.net.native.compiler\\2.2.3\\microsoft.net.native.compiler.2.2.3.nupkg.sha512",
+    "C:\\Users\\Simon\\.nuget\\packages\\runtime.win10-arm.microsoft.net.native.compiler\\2.2.3\\runtime.win10-arm.microsoft.net.native.compiler.2.2.3.nupkg.sha512",
+    "C:\\Users\\Simon\\.nuget\\packages\\runtime.win10-arm.microsoft.net.native.sharedlibrary\\2.2.3\\runtime.win10-arm.microsoft.net.native.sharedlibrary.2.2.3.nupkg.sha512",
+    "C:\\Users\\Simon\\.nuget\\packages\\runtime.win10-arm64.microsoft.net.native.compiler\\2.2.3\\runtime.win10-arm64.microsoft.net.native.compiler.2.2.3.nupkg.sha512",
+    "C:\\Users\\Simon\\.nuget\\packages\\runtime.win10-arm64.microsoft.net.native.sharedlibrary\\2.2.3\\runtime.win10-arm64.microsoft.net.native.sharedlibrary.2.2.3.nupkg.sha512",
+    "C:\\Users\\Simon\\.nuget\\packages\\runtime.win10-x64.microsoft.net.native.compiler\\2.2.3\\runtime.win10-x64.microsoft.net.native.compiler.2.2.3.nupkg.sha512",
+    "C:\\Users\\Simon\\.nuget\\packages\\runtime.win10-x64.microsoft.net.native.sharedlibrary\\2.2.3\\runtime.win10-x64.microsoft.net.native.sharedlibrary.2.2.3.nupkg.sha512",
+    "C:\\Users\\Simon\\.nuget\\packages\\runtime.win10-x86.microsoft.net.native.compiler\\2.2.3\\runtime.win10-x86.microsoft.net.native.compiler.2.2.3.nupkg.sha512",
+    "C:\\Users\\Simon\\.nuget\\packages\\runtime.win10-x86.microsoft.net.native.sharedlibrary\\2.2.3\\runtime.win10-x86.microsoft.net.native.sharedlibrary.2.2.3.nupkg.sha512"
+  ],
   "logs": []
 }
